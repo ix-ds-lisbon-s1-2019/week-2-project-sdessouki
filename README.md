@@ -22,4 +22,4 @@ Be creative! Find a dataset that is inspiring to you and find a way to inspire o
 |---|---| 
 | Total/100% | 100% | 
 
-Good project bro.
+Great project bro.
