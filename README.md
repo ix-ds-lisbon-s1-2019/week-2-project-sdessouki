@@ -20,6 +20,6 @@ Be creative! Find a dataset that is inspiring to you and find a way to inspire o
 
 | Section | Mark | 
 |---|---| 
-| Total/100% | 97% | 
+| Total/100% | 100% | 
 
-Just a leeetle bit of unfinished code at the end, but otherwise good.
+Good project bro.
